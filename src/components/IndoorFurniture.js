@@ -26,7 +26,7 @@ function IndoorFurniture() {
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
             <img class="img-fluid rounded mb-4 mb-lg-0"
-            src="assets/images/sofa-bed-sectional.jpg"alt="pic2"/>
+            src={require('./assets/images/sofa-bed-sectional.jpg').default} />
           </div>
           <div class="col-lg-5">
             <h4 class="font-weight-light">Item Code:24H-SEC-CR</h4>
@@ -44,7 +44,7 @@ function IndoorFurniture() {
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
             <img class="img-fluid rounded mb-4 mb-lg-0"
-            src="assets/images/living-room.jpg"alt="pic3"/>
+            src={require('./assets/images/living-room.jpg').default} />
           </div>
           <div class="col-lg-5">
             <h4 class="font-weight-light">Item Code:Prague</h4>
@@ -60,7 +60,7 @@ function IndoorFurniture() {
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
             <img class="img-fluid rounded mb-4 mb-lg-0"
-            src="assets/images/saloon.jpg"alt="pic4"/>
+            src={require('./assets/images/saloon.jpg').default} />
           </div>
           <div class="col-lg-5">
             <h4 class="font-weight-light">Item Code:Carolina</h4>

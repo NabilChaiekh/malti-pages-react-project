@@ -9,7 +9,7 @@ function OutdoorFurniture() {
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
             <img class="img-fluid rounded mb-4 mb-lg-0"
-            src="assets/images/malissa-sofa.jpg"alt="pic1"/>
+            src={require('./assets/images/malissa-sofa.jpg').default} />
           </div>
           <div class="col-lg-5">
             <h4 class="font-weight-light">Malissa Sofa</h4>
@@ -25,7 +25,7 @@ function OutdoorFurniture() {
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
             <img class="img-fluid rounded mb-4 mb-lg-0"
-            src="assets/images/lexuss-sofa.jpg"alt="pic2"/>
+            src={require('./assets/images/lexuss-sofa.jpg').default} />
           </div>
           <div class="col-lg-5">
             <h4 class="font-weight-light">Lexuss Sofa</h4>
@@ -40,7 +40,7 @@ function OutdoorFurniture() {
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
             <img class="img-fluid rounded mb-4 mb-lg-0"
-            src="assets/images/montero-gazebo.jpg"alt="pic3"/>
+            src={require('./assets/images/montero-gazebo.jpg').default} />
           </div>
           <div class="col-lg-5">
             <h4 class="font-weight-light">Motero Gazebo</h4>
@@ -57,7 +57,7 @@ function OutdoorFurniture() {
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
             <img class="img-fluid rounded mb-4 mb-lg-0"
-            src="assets/images/laura-gazebo.jpg"alt="pic4"/>
+            src={require('./assets/images/laura-gazebo.jpg').default} />
           </div>
           <div class="col-lg-5">
             <h4 class="font-weight-light">Laura Gazebo</h4>
