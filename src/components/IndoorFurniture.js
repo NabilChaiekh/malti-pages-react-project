@@ -8,7 +8,7 @@ function IndoorFurniture() {
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
             <img class="img-fluid rounded mb-4 mb-lg-0"
-            src="assets/images/love-seat.jpg"alt="pic1"/>
+            src={require('./assets/images/love-seat.jpg').default}/>
           </div>
           <div class="col-lg-5">
             <h4 class="font-weight-light">Item Code:CHARLSBO</h4>
