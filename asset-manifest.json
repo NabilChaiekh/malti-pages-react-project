@@ -1,21 +1,31 @@
 {
   "files": {
     "main.css": "/malti-pages-react-project/static/css/main.0c3b0781.chunk.css",
-    "main.js": "/malti-pages-react-project/static/js/main.22cf47dd.chunk.js",
-    "main.js.map": "/malti-pages-react-project/static/js/main.22cf47dd.chunk.js.map",
+    "main.js": "/malti-pages-react-project/static/js/main.b11a08e7.chunk.js",
+    "main.js.map": "/malti-pages-react-project/static/js/main.b11a08e7.chunk.js.map",
     "runtime-main.js": "/malti-pages-react-project/static/js/runtime-main.0ff0af66.js",
     "runtime-main.js.map": "/malti-pages-react-project/static/js/runtime-main.0ff0af66.js.map",
-    "static/js/2.a0654654.chunk.js": "/malti-pages-react-project/static/js/2.a0654654.chunk.js",
-    "static/js/2.a0654654.chunk.js.map": "/malti-pages-react-project/static/js/2.a0654654.chunk.js.map",
+    "static/js/2.eddddf37.chunk.js": "/malti-pages-react-project/static/js/2.eddddf37.chunk.js",
+    "static/js/2.eddddf37.chunk.js.map": "/malti-pages-react-project/static/js/2.eddddf37.chunk.js.map",
     "index.html": "/malti-pages-react-project/index.html",
     "static/css/main.0c3b0781.chunk.css.map": "/malti-pages-react-project/static/css/main.0c3b0781.chunk.css.map",
-    "static/js/2.a0654654.chunk.js.LICENSE.txt": "/malti-pages-react-project/static/js/2.a0654654.chunk.js.LICENSE.txt",
-    "static/media/love-seat.jpg": "/malti-pages-react-project/static/media/love-seat.531bf4f2.jpg"
+    "static/js/2.eddddf37.chunk.js.LICENSE.txt": "/malti-pages-react-project/static/js/2.eddddf37.chunk.js.LICENSE.txt",
+    "static/media/carouselImg1.jpg": "/malti-pages-react-project/static/media/carouselImg1.3edf66fc.jpg",
+    "static/media/carouselImg2.jpg": "/malti-pages-react-project/static/media/carouselImg2.afcbb2f8.jpg",
+    "static/media/carouselImg3.jpg": "/malti-pages-react-project/static/media/carouselImg3.447a50d7.jpg",
+    "static/media/laura-gazebo.jpg": "/malti-pages-react-project/static/media/laura-gazebo.75466ded.jpg",
+    "static/media/lexuss-sofa.jpg": "/malti-pages-react-project/static/media/lexuss-sofa.a893a27d.jpg",
+    "static/media/living-room.jpg": "/malti-pages-react-project/static/media/living-room.27f331e2.jpg",
+    "static/media/love-seat.jpg": "/malti-pages-react-project/static/media/love-seat.531bf4f2.jpg",
+    "static/media/malissa-sofa.jpg": "/malti-pages-react-project/static/media/malissa-sofa.63ee2e08.jpg",
+    "static/media/montero-gazebo.jpg": "/malti-pages-react-project/static/media/montero-gazebo.42ef3a2c.jpg",
+    "static/media/saloon.jpg": "/malti-pages-react-project/static/media/saloon.4f484b72.jpg",
+    "static/media/sofa-bed-sectional.jpg": "/malti-pages-react-project/static/media/sofa-bed-sectional.7ae42a52.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0ff0af66.js",
-    "static/js/2.a0654654.chunk.js",
+    "static/js/2.eddddf37.chunk.js",
     "static/css/main.0c3b0781.chunk.css",
-    "static/js/main.22cf47dd.chunk.js"
+    "static/js/main.b11a08e7.chunk.js"
   ]
 }
